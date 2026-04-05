@@ -61,9 +61,9 @@ Outside day-job work, I build and maintain production tooling across the Rust ec
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarshall-rightside&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smarshall-rightside&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=smarshall-rightside&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smarshall-rightside&layout=compact&langs_count=5&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smarshall-rightside&layout=compact&langs_count=5&hide_border=true&theme=tokyonight)
 
 ## Availability
 
