@@ -61,8 +61,8 @@ Outside day-job work, I build and maintain production tooling across the Rust ec
 
 ## GitHub Activity
 
-![GitHub Stats](https://ghstats.dev/api/card?username=smarshall-rightside&theme=tokyonight)
-![Top Languages](https://ghstats.dev/api/langs?username=smarshall-rightside&layout=bar&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarshall-rightside&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=smarshall-rightside&theme=tokyonight&hide_border=true)
 
 ## Availability
 
