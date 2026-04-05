@@ -64,13 +64,7 @@ Outside day-job work, I build and maintain production tooling across the Rust ec
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smarshall-rightside&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=smarshall-rightside&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smarshall-rightside&theme=tokyo-night&hide_border=true)
-
-### Primary Languages (real-world focus)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smarshall-rightside&theme=tokyonight)
 
 ## Availability
 
