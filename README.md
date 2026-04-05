@@ -49,6 +49,7 @@ Outside day-job work, I build and maintain production tooling across the Rust ec
 
 - [PatchPost](https://patchpost.crypticredhat.com): ship elegant changelogs to Discord and web
 - [RustDemoPro](https://rustdemopro.com): anti-cheat evidence tooling for Rust communities
+- [RustIntel API](https://api.rustupdates.crypticredhat.com): public Rust/Oxide/Carbon update feed ([docs](https://api.rustupdates.crypticredhat.com/swagger/index.html))
 - [NexusRust](https://www.nexusrust.co.uk): community ecosystem site
 - [2StonedRust](https://2stonedrust.com): full custom site, voting, game logs, leaderboards
 
