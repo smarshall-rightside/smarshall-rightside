@@ -1,4 +1,4 @@
-# Steven Marshall (CrypticRedHat / Zaneful)
+# CrypticRedHat / Zaneful
 
 Dev for hire - Rust ecosystem - containers & infra
 
